@@ -2,5 +2,5 @@
 
 
 
-Enclosure / enclosures for Logicanalyzer hardware.
+Enclosure / enclosures for LogicAnalyzer hardware.
 
